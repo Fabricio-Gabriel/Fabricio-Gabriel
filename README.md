@@ -3,7 +3,7 @@ Olá, eu sou Fabricio Gabriel!
 
 
 
-<a href=![ezgif-2-14ea7717e1](https://user-images.githubusercontent.com/98417135/151035714-e93795b8-9aae-4f78-9818-322f7b649ebb.gif)>
+![ezgif-2-14ea7717e1](https://user-images.githubusercontent.com/98417135/151035714-e93795b8-9aae-4f78-9818-322f7b649ebb.gif)
 
 
 
