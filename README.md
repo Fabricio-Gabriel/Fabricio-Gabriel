@@ -10,7 +10,7 @@ Olá, eu sou Fabricio Gabriel!
 
 
 
-- 👀 Estudando Python, HTML, CSS, JavaScript e Gamemaker Language. 
+- 👀 Estudando Python, HTML, CSS, JavaScript e Java. 
 - 🌱 Foco em desenvolvimento Front-end com HTML, CSS e JavaScript.
 - 💞️ Procuro tentar ajudar o maximo de pessoas possivel, após o aprendizado das linguagens!
 - 🔥 Em busca da primeira vaga de emprego como desenvolvedor!
