@@ -4,7 +4,7 @@
 
 
 ![Fabricio-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Gabriel&layout=compact&langs_count=16&theme=tokyonight)
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Gabriel&layout=compact&langs_count=16&theme=tokyonight)</div>
 
 
 <h2>Tecnologias que utilizo:</h2>
