@@ -22,6 +22,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-melquiades-342883238/)
 
 
+<p>Estou em busca de um emprego como desenvolvedor Front-end ou Full-stack, para poder aprimorar minhas habilidades e crescer no mercado de programação. Estou em processo de aprendizagem em várias tecnologias, relacionadas a minha área, para ampliar ainda mais minhas oportunidades e conhecimento! Além de projetos, com ou sem fins lucrativos, para que assim possa mostrar minhas habilidades em meu portfólio.</p>
+
+
 - 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python e NodeJS. 
 - 🌱 Foco em desenvolvimento Front-end com HTML, CSS e JavaScript.
 - 💞️ Procuro tentar ajudar o maximo de pessoas possivel, após o aprendizado das linguagens!
