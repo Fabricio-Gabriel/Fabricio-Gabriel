@@ -1,7 +1,6 @@
 <h1>Olá, eu sou Fabricio Gabriel!</h1>
 
 
-<h2>Minhas Redes sociais</h2>
 
 
 ![Fabricio-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&show_icons=true&theme=tokyonight&count_private=true)
@@ -16,6 +15,10 @@
 ![tecnologias](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![tecnologias](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+<h2>Minhas Redes sociais</h2>
+
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 - 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python e NodeJS. 
