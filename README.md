@@ -21,6 +21,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fab_biel/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-melquiades-342883238/)
 
+<h2>Sobre mim:</h2>
 
 <p>Estou em busca de um emprego como desenvolvedor Front-end ou Full-stack, para poder aprimorar minhas habilidades e crescer no mercado de programação. Estou em processo de aprendizagem em várias tecnologias, relacionadas a minha área, para ampliar ainda mais minhas oportunidades e conhecimento! Além de projetos, com ou sem fins lucrativos, para que assim possa mostrar minhas habilidades em meu portfólio.</p>
 
