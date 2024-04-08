@@ -18,7 +18,8 @@
 
 <h2>Minhas Redes sociais</h2>
 
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fab_biel/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-melquiades-342883238/)
 
 
 - 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python e NodeJS. 
