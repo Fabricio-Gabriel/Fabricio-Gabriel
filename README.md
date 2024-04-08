@@ -4,7 +4,7 @@
 
 
 ![Fabricio-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&show_icons=true&theme=tokyonight)
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&theme=tokyonight" />
 
 
 <h2>Tecnologias que utilizo:</h2>
