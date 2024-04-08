@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Fabricio Gabriel!</h1>
 
 
-
+<h2>Minhas Redes sociais</h2>
 
 
 ![Fabricio-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&show_icons=true&theme=tokyonight&count_private=true)
