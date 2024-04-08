@@ -13,7 +13,7 @@ Olá, eu sou Fabricio Gabriel!
 ![tecnologias](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - 👀 Estudando Python, HTML, CSS, JavaScript e Java. 
 - 🌱 Foco em desenvolvimento Front-end com HTML, CSS e JavaScript.
