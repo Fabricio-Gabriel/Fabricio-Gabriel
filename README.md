@@ -3,7 +3,7 @@ Olá, eu sou Fabricio Gabriel!
 
 
 
-![ezgif-2-14ea7717e1](https://user-images.githubusercontent.com/98417135/151035714-e93795b8-9aae-4f78-9818-322f7b649ebb.gif)
+![ezgif-2-14ea7717e1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F724235183832104781%2F&psig=AOvVaw0wGhP9OjvX92JKZMLtEpyX&ust=1712691849565000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiZjb-ws4UDFQAAAAAdAAAAABAE)
 <br>
 ![Fabricio-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&show_icons=true&theme=dracula&count_private=true)
 
