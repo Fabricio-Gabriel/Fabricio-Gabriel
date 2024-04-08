@@ -1,6 +1,8 @@
 Olá, eu sou Fabricio Gabriel!
 
-
+<div style="display: inline_block" align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F724235183832104781%2F&psig=AOvVaw3ARyPOI1VmKQcBSud4hS6u&ust=1712692922028000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj3qbu0s4UDFQAAAAAdAAAAABAT"></img>
+</div>
 
 
 
