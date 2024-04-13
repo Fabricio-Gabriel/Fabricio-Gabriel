@@ -31,7 +31,7 @@
 
 <p>Estou em busca de um emprego como desenvolvedor Front-end ou Full-stack, para poder aprimorar minhas habilidades e crescer no mercado de programação. Estou em processo de aprendizagem em várias tecnologias, relacionadas a minha área, para ampliar ainda mais minhas oportunidades e conhecimento! Além de projetos, com ou sem fins lucrativos, para que assim possa mostrar minhas habilidades em meu portfólio.</p>
 
-<p>Sou estudante de sistemas de informação pela instituição de ensino Universidade Paulista, Freelancer e CTO da empresa MRDR Media Group.</p>
+<p>Sou estudante de sistemas de informação pela instituição de ensino Universidade Paulista, Freelancer e CTO da empresa MRDR Media Grou.</p>
 
 
 - 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python e NodeJS. 
