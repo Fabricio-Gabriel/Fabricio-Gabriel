@@ -8,7 +8,7 @@
 <div style="display: flex;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Gabriel&theme=tokyonight" />
 
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Gabriel&layout=compact&theme=tokyonight" />
+  <img height=205 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Gabriel&layout=compact&theme=tokyonight" />
 </div>
 
 
