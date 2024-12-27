@@ -34,8 +34,8 @@
 <p>Sou estudante de sistemas de informação pela instituição de ensino Universidade Paulista, Freelancer e CTO da empresa MRDR Media Group.</p>
 
 
-- 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python e NodeJS. 
-- 🌱 Foco em desenvolvimento Front-end com HTML, CSS e JavaScript.
+- 👀 Estudando HTML, CSS, JavaScript, TypesScript, Python, NodeJS, C# e .NET. 
+- 🌱 Foco em desenvolvimento Front-end com HTML, CSS, JavaScript, ReactJs e NodeJs.
 - 💞️ Procuro tentar ajudar o maximo de pessoas possivel, após o aprendizado das linguagens!
 - 🔥 Em busca da primeira vaga de emprego como desenvolvedor!
 - 📫 Como me contatar: email - fabricio.melquiades04@gmail.com / Linkedin - Fabricio Melquiades
